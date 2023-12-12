@@ -21,9 +21,8 @@
     "noFallthroughCasesInSwitch": true,
 
     /* Custom */
-    "baseUrl": "./src",
     "paths": {
-      "@components/*": ["components/*"]
+      "@/*": ["./src/*"]
     }
   },
   "include": ["src"],

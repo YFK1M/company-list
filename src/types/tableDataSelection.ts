@@ -1,0 +1,1 @@
+export type TableDataSelection = { [key: string]: boolean }
